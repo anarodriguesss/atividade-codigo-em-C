@@ -17,9 +17,9 @@ int main () {
 	scanf ("%f", &altura); 
 	
 	
-	float area = (base * altura) 
+	float area = (base * altura); 
 	
-	printf ("a area do retangulo e %f ", ); 
+	printf ("a area do retangulo e %f ", area); 
 
 return 0; 
 	
