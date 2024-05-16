@@ -1,0 +1,25 @@
+
+int main () {
+
+	// Declaração de variaveis 
+	
+	float num1;
+	float num2; 
+	
+	
+	// 
+	
+	printf ("Digite o primeiro numero: "); 
+	scanf ("%f", &num1); 
+	
+	printf ("Digite o segundo numero: "); 
+	scanf ("%f", &num2); 
+	
+	
+	float diferenca = (num1 - num2); 
+	
+	printf ("a diferenca entre os dois numeros e %f ", diferenca); 
+
+return 0; 
+	
+	}
