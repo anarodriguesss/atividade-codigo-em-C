@@ -1,0 +1,26 @@
+#include <stdio.h>
+
+int main () {
+
+	// Declaração de variaveis 
+	
+	float base;
+	float altura; 
+	
+	
+	// 
+	
+	printf ("Digite a base do retangulo: "); 
+	scanf ("%f", &base); 
+	
+	printf ("Digite a altura do retangulo: "); 
+	scanf ("%f", &altura); 
+	
+	
+	float area = (base * altura) 
+	
+	printf ("a area do retangulo e %f ", ); 
+
+return 0; 
+	
+	}	
