@@ -1,0 +1,25 @@
+#include <stdio.h> 
+
+int main () {
+
+	// Declaração de variaveis 
+	
+	float quilos;
+	float gramas = 1000; 
+	
+	
+	// 
+	
+	printf ("Digite o peso: "); 
+	scanf ("%f", &quilos);  
+ 
+ 	
+	 
+	 
+	float gramasPeso = quilos * gramas;  
+	
+	printf ("o peso em gramas e %f", gramasPeso); 
+
+return 0; 
+	
+	}	 
